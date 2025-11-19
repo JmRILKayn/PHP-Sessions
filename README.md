@@ -1,16 +1,16 @@
-App 1: User Activity History
+**App 1: User Activity History**
 
 Files: products.php & product_detail.php
 
-App 2: Language Selector 
+**App 2: Language Selector**
 
 Files: index_locale.php & set_locale.php
 
-App 3: Theme Selector
+**App 3: Theme Selector**
 
 Files: index.php & toggle_mode.php
 
-🛠️ Execution Instructions
+**🛠️ Execution Instructions**
 To run the examples locally on a web server:
 
 Place Files: Ensure all six PHP files are in the same accessible directory on your web server (e.g., in a folder named /it11_sessions/).
