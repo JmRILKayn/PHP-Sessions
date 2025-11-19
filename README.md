@@ -1,10 +1,13 @@
 App 1: User Activity History
+
 Files: products.php & product_detail.php
 
 App 2: Language Selector 
+
 Files: index_locale.php & set_locale.php
 
 App 3: Theme Selector
+
 Files: index.php & toggle_mode.php
 
 🛠️ Execution Instructions
